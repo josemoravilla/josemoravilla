@@ -1,4 +1,4 @@
-My name is Jose Mora, or Jose Mora Villa if you want to call me by my full name.
+Hi! My name is Jose Mora.
 
 I work as a logistics consultant, but I identify more as a development enthusiast. I am in charge of implementing business optimization models, from commercial forecasting to minimizing transport route costs.
 
